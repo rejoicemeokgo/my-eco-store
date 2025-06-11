@@ -11,6 +11,6 @@
     <h4>This is a heading </h4>
     <h5>This is a heading </h5>
     <h6>This is a heading </h6>
-<img src="images/boat.jpg"width="120" /> 
+<img src="images/boat.jpg"height="120" /> 
 </body>
 </html>
